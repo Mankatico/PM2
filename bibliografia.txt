@@ -1,1 +1,2 @@
-Scott Chacon and Ben Straub. Pro Git. Apress.\n\nRyan Hodson. Tutorial de Git de Ry. Palabras aplastantes (2014)
+Scott chacon and Ben straub. Pro git. Appres
+Ryan hodson. R'ys Git Tutorial. Smashwords(2014)
