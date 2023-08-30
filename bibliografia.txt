@@ -1,1 +1,1 @@
-Chacón, S. y Straub, B. Pro Git. Presione.
+Scott Chacon and Ben Straub. Pro Git. Apress.\n\nRyan Hodson. Tutorial de Git de Ry. Palabras aplastantes (2014)
